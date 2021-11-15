@@ -1,0 +1,4 @@
+total 8
+-rwxrwxr-x 1 john john 201 Nov  5 17:49 hello.sh
+-rw-rw-r-- 1 john john   0 Nov  5 17:50 ls.txt
+-rw-rw-r-- 1 john john   8 Nov  5 17:50 read_file.sh
